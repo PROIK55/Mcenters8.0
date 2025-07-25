@@ -20,6 +20,15 @@ Users are solely responsible for ensuring compliance with all applicable laws an
 
 This repository owner assumes no liability or responsibility for any damages, losses, or legal consequences resulting from the use of this software.
 
+# Software Support and Functionality Notice
+Mcenters 8.0 is no longer supported or maintained by the original developers.
+
+Some features or methods—especially those relying on third-party servers or external non-local tools to enable game access—may no longer work due to discontinued server support or service shutdowns.
+
+Only local methods that use files or resources from the user’s own PC may remain functional.
+
+Users should be aware of these limitations when using this software.
+
 # Security and Integrity
 The files provided here are unaltered official releases from M Centers and have not been modified in any way.
 
