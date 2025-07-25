@@ -1,2 +1,3 @@
-# Mcenters8.0
+# Mcenters 8.0 (Lastest Official non modified version by m centers)
 Mcenters 8.0 was discountinued by original devs and owners and the link to it was removed from their website, the file I provided is lastest version released by thembefore they discontinued the development, I don't take any credits or responsibility of this software as I haven't made it, I'm simply just giving official version of it that's public.
+ YOu can scan the zip file for malware and it won't find any as I haven't touched the zip file and the file I provided is fully official from m centers website itself (before the link was removed), use the file on your own responsibility as it's still software that allows you to pirate minecraft bedrock edition and unlock full game for free, I do not recommend usage of the software due to legal issues that come with pirating, so use it on your own full responsibility.
